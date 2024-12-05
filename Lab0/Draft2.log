@@ -1,0 +1,22 @@
+Circuit: * C:\Users\duzun\OneDrive\Masaüstü\Draft2.asc
+
+Model "ald1101": Oxide thickness thinner than recommended for a level 2 MOSFET.
+Instance "m1": Length shorter than recommended for a level 2 MOSFET.
+
+Date: Mon Sep 20 13:57:10 2021
+Total elapsed time: 0.131 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 604
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 200 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 402 bytes object code size  0.1/0.2/[0.1]
+

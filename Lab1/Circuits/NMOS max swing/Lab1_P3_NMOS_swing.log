@@ -1,0 +1,23 @@
+Circuit: * C:\Users\duzun\OneDrive\Masaüstü\Fall 2T1\ECE 331 Analog Electronics\Lab 1\Circuits\NMOS max swing\Lab1_P3_NMOS_swing.asc
+
+Model "ald1101": Oxide thickness thinner than recommended for a level 2 MOSFET.
+Instance "m1": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 03 23:43:04 2021
+Total elapsed time: 0.036 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 836
+traniter = 831
+tranpoints = 416
+accept = 258
+rejected = 158
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1:      14 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2: 481 bytes object code size  0.1/0.0/[0.0]
+

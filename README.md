@@ -2,6 +2,7 @@
 This repository contains the labs and materials from the ECE331 Analog Electronics course at the University of Toronto (Fall 2021).
 
 # Labs
+- [Lab 0: Introduction to Lab Equipment and Components](./Lab0)
 - [Lab 1: Common Source Amplifiers](./Lab1)
 - [Lab 2: Current Mirrors](./Lab2)
 - [Lab 3: Push-Pull Power Amplifier](./Lab3)
